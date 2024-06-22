@@ -1,0 +1,74 @@
+[Sat Jun 22 11:00:42.684197 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 11:00:42.716325 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 11:00:42.718731 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 11:00:42.719221 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 11:04:22.738843 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 11:04:29.445074 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 11:04:29.468907 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 11:04:29.471217 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 11:04:29.471688 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 12:09:27.208973 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 12:09:28.578575 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 12:09:28.602621 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 12:09:28.605170 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 12:09:28.605717 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 12:10:51.172047 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 12:11:47.760299 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 12:11:47.786383 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 12:11:47.788710 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 12:11:47.791195 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 12:18:04.279323 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 12:25:38.035522 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 12:25:38.100899 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 12:25:38.103734 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 12:25:38.103947 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 12:30:59.122641 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 12:31:07.330880 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 12:31:07.368656 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 12:31:07.370917 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 12:31:07.371335 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 12:50:48.485113 2024] [autoindex:error] [pid 19] [client 192.168.65.1:29719] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Jun 22 12:51:20.771448 2024] [authz_core:error] [pid 21] [client 192.168.65.1:29721] AH01630: client denied by server configuration: /var/www/html/app
+[Sat Jun 22 13:13:05.169555 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 13:13:18.347629 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 13:13:18.366959 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 13:13:18.368811 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 13:13:18.369065 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 13:14:38.335360 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 13:14:42.704481 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 13:14:42.728414 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 13:14:42.730688 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 13:14:42.731118 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 13:14:44.355922 2024] [authz_core:error] [pid 17] [client 192.168.65.1:30371] AH01630: client denied by server configuration: /var/www/html/home
+[Sat Jun 22 13:14:45.423856 2024] [authz_core:error] [pid 17] [client 192.168.65.1:30371] AH01630: client denied by server configuration: /var/www/html/home
+[Sat Jun 22 13:14:45.888576 2024] [authz_core:error] [pid 17] [client 192.168.65.1:30371] AH01630: client denied by server configuration: /var/www/html/home
+[Sat Jun 22 13:14:46.104056 2024] [authz_core:error] [pid 17] [client 192.168.65.1:30371] AH01630: client denied by server configuration: /var/www/html/home
+[Sat Jun 22 13:14:50.945897 2024] [authz_core:error] [pid 17] [client 192.168.65.1:30371] AH01630: client denied by server configuration: /var/www/html/
+[Sat Jun 22 13:14:51.066167 2024] [authz_core:error] [pid 17] [client 192.168.65.1:30371] AH01630: client denied by server configuration: /var/www/html/
+[Sat Jun 22 13:15:50.460185 2024] [authz_core:error] [pid 19] [client 192.168.65.1:30541] AH01630: client denied by server configuration: /var/www/html/
+[Sat Jun 22 13:15:51.468161 2024] [authz_core:error] [pid 19] [client 192.168.65.1:30541] AH01630: client denied by server configuration: /var/www/html/
+[Sat Jun 22 13:15:51.862731 2024] [authz_core:error] [pid 19] [client 192.168.65.1:30541] AH01630: client denied by server configuration: /var/www/html/
+[Sat Jun 22 13:17:33.953235 2024] [core:error] [pid 19] [client 192.168.65.1:30741] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Jun 22 13:17:58.141102 2024] [core:error] [pid 20] [client 192.168.65.1:30856] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Jun 22 13:17:59.124244 2024] [core:error] [pid 21] [client 192.168.65.1:30913] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Jun 22 13:20:05.905608 2024] [core:error] [pid 17] [client 192.168.65.1:31279] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Jun 22 13:20:06.585361 2024] [core:error] [pid 18] [client 192.168.65.1:31280] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Jun 22 13:30:56.103127 2024] [core:error] [pid 22] [client 192.168.65.1:32954] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Sat Jun 22 13:38:08.023932 2024] [autoindex:error] [pid 18] [client 192.168.65.1:32956] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Jun 22 13:38:09.693947 2024] [autoindex:error] [pid 18] [client 192.168.65.1:32956] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Jun 22 13:39:20.590875 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Jun 22 13:39:28.888907 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jun 22 13:39:28.911992 2024] [ssl:warn] [pid 1] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 3.0.13 30 Jan 2024 (OpenSSL 3.0.11 19 Sep 2023), version currently loaded is 0x300000B0) - may result in undefined or erroneous behavior
+[Sat Jun 22 13:39:28.914049 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.59 (Debian) PHP/8.3.8 OpenSSL/3.0.11 configured -- resuming normal operations
+[Sat Jun 22 13:39:28.914284 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jun 22 15:31:47.574428 2024] [php:notice] [pid 16] [client 192.168.65.1:51142] Tiempo 2: -1.1920928955078E-5 segundos.
+[Sat Jun 22 20:28:35.129227 2024] [php:notice] [pid 18] [client 192.168.65.1:51639] Tiempo 2: -1.0967254638672E-5 segundos.
